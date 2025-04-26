@@ -49,5 +49,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 This project is inspired by the original Flappy Bird game by Dong Nguyen. Special thanks to the community for their support and feedback.
 
 ---
-
-Let me know if there's anything else you'd like to add or adjust! 😊
